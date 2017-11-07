@@ -1,7 +1,6 @@
 # BossMVP
-MVP Studying
 
-实现步骤：
+### 实现步骤：
 
 1.创建View层interface，定义v层实现方法
 2.创建Model层interface，定义M层数据获取方法。（内部interface实现数据回调）
